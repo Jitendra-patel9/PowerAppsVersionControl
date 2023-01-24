@@ -26,7 +26,7 @@ Screen1 As screen:
         Y: =183
         ZIndex: =2
 
-    Label4 As label:
+    testLabel As label:
         Text: ="Test Label"
         X: =748
         Y: =95
