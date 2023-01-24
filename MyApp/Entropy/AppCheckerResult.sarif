@@ -43,19 +43,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Screen1.testLabel11.FocusedBorderThickness"
+                  "fullyQualifiedName": "Screen1.testLabelTest.FocusedBorderThickness"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Screen1.testLabel11.FocusedBorderThickness",
+                  "fullyQualifiedName": "Screen1.testLabelTest.FocusedBorderThickness",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "FocusedBorderThickness",
                 "module": "Screen1",
-                "type": "Screen1.testLabel11"
+                "type": "Screen1.testLabelTest"
               }
             }
           ],
@@ -73,19 +73,19 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Screen1.testLabel11.TabIndex"
+                  "fullyQualifiedName": "Screen1.testLabelTest.TabIndex"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Screen1.testLabel11.TabIndex",
+                  "fullyQualifiedName": "Screen1.testLabelTest.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Screen1",
-                "type": "Screen1.testLabel11"
+                "type": "Screen1.testLabelTest"
               }
             }
           ],

@@ -1,9 +1,9 @@
 Screen1 As screen:
 
-    Label3 As label:
+    Label2 As label:
         Text: =var
-        X: =610
-        Y: =283
+        X: =210
+        Y: =95
         ZIndex: =1
 
     Label1 As label:
@@ -12,10 +12,10 @@ Screen1 As screen:
         Y: =183
         ZIndex: =1
 
-    Label2 As label:
+    Label3 As label:
         Text: =var
-        X: =210
-        Y: =95
+        X: =610
+        Y: =283
         ZIndex: =1
 
     Button1 As button:
@@ -31,4 +31,10 @@ Screen1 As screen:
         X: =748
         Y: =95
         ZIndex: =3
+
+    Buttontest As button:
+        Text: ="Button"
+        X: =402
+        Y: =477
+        ZIndex: =4
 
