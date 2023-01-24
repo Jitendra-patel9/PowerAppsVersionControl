@@ -10,7 +10,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/24/2023 14:14:52",
+  "HeaderLastSavedDateTimeUTC": "01/24/2023 14:17:45",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -23,8 +23,8 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 0,
-    "label": 1
+    "button": 1,
+    "label": 0
   },
   "OverridablePropertiesEntry": {
     "App": {},
@@ -36,9 +36,9 @@
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PublishOrderIndices": {
     "App": 0,
-    "Button1": 0,
-    "Label1": 1,
-    "Label2": 2,
+    "Button1": 1,
+    "Label1": 2,
+    "Label2": 0,
     "Screen1": 0
   },
   "ResourcesJsonIndices": {},

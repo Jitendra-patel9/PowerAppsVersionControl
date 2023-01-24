@@ -1,15 +1,15 @@
 Screen1 As screen:
 
-    Label1 As label:
-        Text: =var
-        X: =410
-        Y: =183
-        ZIndex: =1
-
     Label2 As label:
         Text: =var
         X: =210
         Y: =95
+        ZIndex: =1
+
+    Label1 As label:
+        Text: =var
+        X: =410
+        Y: =183
         ZIndex: =1
 
     Button1 As button:
