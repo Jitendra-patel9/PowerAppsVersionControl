@@ -19,4 +19,10 @@ Screen1 As screen:
         X: =190
         Y: =183
         ZIndex: =2
+        
+    Label3 As label:
+        Text: =var
+        X: =610
+        Y: =283
+        ZIndex: =1
 
