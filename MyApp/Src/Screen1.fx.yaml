@@ -14,7 +14,7 @@ Screen1 As screen:
         Y: =183
         ZIndex: =2
 
-    testLabelTest As label:
+    testLabelPowerApps As label:
         Text: ="Test Label"
         X: =578
         Y: =325

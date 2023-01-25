@@ -7,11 +7,11 @@
     "Buttontest": 5,
     "Label2": 4,
     "Screen1": 3,
-    "testLabelTest": 6
+    "testLabelPowerApps": 6
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "01/25/2023 04:56:49",
+  "HeaderLastSavedDateTimeUTC": "01/25/2023 05:09:59",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -33,7 +33,7 @@
     "Buttontest": {},
     "Label2": {},
     "Screen1": {},
-    "testLabelTest": {}
+    "testLabelPowerApps": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PublishOrderIndices": {
@@ -42,19 +42,19 @@
     "Buttontest": 0,
     "Label2": 0,
     "Screen1": 2,
-    "testLabelTest": 1
+    "testLabelPowerApps": 1
   },
   "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1240483,
+    "AnalysisLoadTime": 0.1013869,
     "ControlCount": {
       "button": 2,
-      "label": 4,
+      "label": 2,
       "screen": 1
     },
-    "DeserializationLoadTime": 1.2796929,
+    "DeserializationLoadTime": 1.25231,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
