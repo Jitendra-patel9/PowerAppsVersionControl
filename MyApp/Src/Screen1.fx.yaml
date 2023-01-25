@@ -6,18 +6,6 @@ Screen1 As screen:
         Y: =95
         ZIndex: =1
 
-    Label1 As label:
-        Text: =var
-        X: =410
-        Y: =183
-        ZIndex: =1
-
-    Label3 As label:
-        Text: =var
-        X: =610
-        Y: =283
-        ZIndex: =1
-
     Button1 As button:
         OnSelect: |-
             =UpdateContext({var:!var})
@@ -28,13 +16,13 @@ Screen1 As screen:
 
     testLabelTest As label:
         Text: ="Test Label"
-        X: =748
-        Y: =95
+        X: =578
+        Y: =325
         ZIndex: =3
 
     Buttontest As button:
         Text: ="Button"
-        X: =402
-        Y: =477
+        X: =568
+        Y: =428
         ZIndex: =4
 
